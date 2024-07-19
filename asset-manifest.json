@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PromptMusicSearch/static/css/main.e9e45f20.css",
-    "main.js": "/PromptMusicSearch/static/js/main.6e991a7b.js",
+    "main.js": "/PromptMusicSearch/static/js/main.f77fd672.js",
     "static/js/453.ad6eb26e.chunk.js": "/PromptMusicSearch/static/js/453.ad6eb26e.chunk.js",
     "index.html": "/PromptMusicSearch/index.html",
     "main.e9e45f20.css.map": "/PromptMusicSearch/static/css/main.e9e45f20.css.map",
-    "main.6e991a7b.js.map": "/PromptMusicSearch/static/js/main.6e991a7b.js.map",
+    "main.f77fd672.js.map": "/PromptMusicSearch/static/js/main.f77fd672.js.map",
     "453.ad6eb26e.chunk.js.map": "/PromptMusicSearch/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9e45f20.css",
-    "static/js/main.6e991a7b.js"
+    "static/js/main.f77fd672.js"
   ]
 }
