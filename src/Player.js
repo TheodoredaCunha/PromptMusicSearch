@@ -3,7 +3,7 @@ import 'react-h5-audio-player/lib/styles.css';
 
 const Player = ({filepath}) => (
     <AudioPlayer
-        src= {filepath}
+        src= {process.env.PUBLIC_URL + filepath}
     />
 );
 
