@@ -11,6 +11,8 @@
 # production
 /build
 
+/python-microservice/venv
+
 # misc
 .DS_Store
 .env.local
